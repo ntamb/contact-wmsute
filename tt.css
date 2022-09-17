@@ -1,0 +1,14 @@
+.bb{
+background-color: antiquewhite;
+}
+.hh{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-emphasis-color: red;
+}
+.dd{
+    background-color: blue;
+}
+.d2{
+    background-image: url(2.jpg);
+}
